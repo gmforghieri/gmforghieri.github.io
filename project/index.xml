@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gian Marco Forghieri</title>
-    <link>https://gmforghieri.github.io/</link>
-      <atom:link href="https://gmforghieri.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Gian Marco Forghieri</description>
+    <title>Projects | Gian Marco Forghieri</title>
+    <link>https://gmforghieri.github.io/project/</link>
+      <atom:link href="https://gmforghieri.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 08 Apr 2019 11:08:49 +0200</lastBuildDate>
     <image>
       <url>https://gmforghieri.github.io/img/icon-192.png</url>
-      <title>Gian Marco Forghieri</title>
-      <link>https://gmforghieri.github.io/</link>
+      <title>Projects</title>
+      <link>https://gmforghieri.github.io/project/</link>
     </image>
     
     <item>
