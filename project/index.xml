@@ -5,7 +5,7 @@
     <link>https://gmforghieri.github.io/project/</link>
       <atom:link href="https://gmforghieri.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 08 Apr 2019 11:08:49 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright>
     <image>
       <url>https://gmforghieri.github.io/img/icon-192.png</url>
       <title>Projects</title>
@@ -13,10 +13,50 @@
     </image>
     
     <item>
+      <title>Battleship</title>
+      <link>https://gmforghieri.github.io/project/battleship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gmforghieri.github.io/project/battleship/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>GoGreen App</title>
       <link>https://gmforghieri.github.io/project/gogreen/</link>
-      <pubDate>Mon, 08 Apr 2019 11:08:49 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://gmforghieri.github.io/project/gogreen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GraphQL Reading List</title>
+      <link>https://gmforghieri.github.io/project/graphql-api/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gmforghieri.github.io/project/graphql-api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java Pacman Testing Suite</title>
+      <link>https://gmforghieri.github.io/project/jpacman-test-suite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gmforghieri.github.io/project/jpacman-test-suite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quiz App</title>
+      <link>https://gmforghieri.github.io/project/quiz-app/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gmforghieri.github.io/project/quiz-app/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Text-based Catalogue App</title>
+      <link>https://gmforghieri.github.io/project/java-catalogue-app/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gmforghieri.github.io/project/java-catalogue-app/</guid>
       <description></description>
     </item>
     

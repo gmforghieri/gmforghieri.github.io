@@ -4,17 +4,27 @@
   
   <url>
     <loc>https://gmforghieri.github.io/</loc>
-    <lastmod>2019-04-08T11:08:49+02:00</lastmod>
+    <lastmod>2019-10-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gmforghieri.github.io/project/gogreen/</loc>
-    <lastmod>2019-04-08T11:08:49+02:00</lastmod>
+    <loc>https://gmforghieri.github.io/post/</loc>
+    <lastmod>2019-10-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gmforghieri.github.io/project/</loc>
-    <lastmod>2019-04-08T11:08:49+02:00</lastmod>
+    <loc>https://gmforghieri.github.io/post/cross-the-first-threshold/</loc>
+    <lastmod>2019-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gmforghieri.github.io/post/call-to-adventure/</loc>
+    <lastmod>2019-10-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gmforghieri.github.io/post/the-ordinary-world/</loc>
+    <lastmod>2019-10-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -26,11 +36,27 @@
   </url>
   
   <url>
+    <loc>https://gmforghieri.github.io/project/battleship/</loc>
+  </url>
+  
+  <url>
     <loc>https://gmforghieri.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>https://gmforghieri.github.io/post/</loc>
+    <loc>https://gmforghieri.github.io/project/gogreen/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gmforghieri.github.io/project/graphql-api/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gmforghieri.github.io/project/jpacman-test-suite/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gmforghieri.github.io/project/</loc>
   </url>
   
   <url>
@@ -42,11 +68,19 @@
   </url>
   
   <url>
+    <loc>https://gmforghieri.github.io/project/quiz-app/</loc>
+  </url>
+  
+  <url>
     <loc>https://gmforghieri.github.io/talk/</loc>
   </url>
   
   <url>
     <loc>https://gmforghieri.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gmforghieri.github.io/project/java-catalogue-app/</loc>
   </url>
   
 </urlset>

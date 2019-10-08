@@ -5,12 +5,43 @@
     <link>https://gmforghieri.github.io/post/</link>
       <atom:link href="https://gmforghieri.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 07 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gmforghieri.github.io/img/icon-192.png</url>
       <title>Posts</title>
       <link>https://gmforghieri.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>The Hero&#39;s Journey - Cross the first threshold</title>
+      <link>https://gmforghieri.github.io/post/cross-the-first-threshold/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://gmforghieri.github.io/post/cross-the-first-threshold/</guid>
+      <description>&lt;p&gt;Coming soon!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Hero&#39;s Journey - Call to adventure</title>
+      <link>https://gmforghieri.github.io/post/call-to-adventure/</link>
+      <pubDate>Sun, 06 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://gmforghieri.github.io/post/call-to-adventure/</guid>
+      <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Hero&#39;s Journey - An Ordinary World</title>
+      <link>https://gmforghieri.github.io/post/the-ordinary-world/</link>
+      <pubDate>Sat, 05 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://gmforghieri.github.io/post/the-ordinary-world/</guid>
+      <description>&lt;p&gt;In this series of blog posts I will attempt to analyze my journey based on the hero myth pattern popularized by Joseph Campbell,
+which was influenced by Carl Jung&#39;s work on myth and archetypes also known as the ancient patterns of personality that are the shared heritage of the human race.
+In other words, the hero&#39;s journey represents the universal human condition of being born into this world, growing, learning, struggling to become an individual, and dying.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
